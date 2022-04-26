@@ -1,1 +1,1 @@
-# battleship
+Creating a Battleship game with TDD using HTML, CSS, Javascript, Webpack, and Jest for testing.
